@@ -54,3 +54,18 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# Simón Dice - React Native (Expo)
+
+Práctica universitaria de desarrollo móvil. Implementación del juego Simón Dice utilizando React Native, Expo y TypeScript.
+
+## Requisitos previos
+- Node.js (versión LTS recomendada)
+- Aplicación móvil **Expo Go** (Android/iOS) o navegador web
+
+## Instrucciones para ejecutar el proyecto
+
+1. Clonar el repositorio o descargar el proyecto:
+   ```bash
+   git clone <URL_DE_TU_REPOSITORIO>
+   cd simon-dice
